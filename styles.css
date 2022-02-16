@@ -33,16 +33,16 @@ body {
 
 .container .box:nth-child(1) {
   transform: translateX(-70px);
-  --clr: #FC5F9B;
+  --clr: #1F2C20;
 }
 
 .container .box:nth-child(2) {
-  --clr: #A362EA;
+  --clr: #EC3C11;
 }
 
 .container .box:nth-child(3) {
   transform: translateX(70px);
-  --clr: #0ED095;
+  --clr: #0077B7;
 }
 
 .container:hover .box:nth-child(1) {
